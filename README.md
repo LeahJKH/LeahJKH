@@ -17,7 +17,7 @@ jeg var født 23.02.03
 ## hvor kan du nå meg?
 nå meg på [Email](mailto:jobbjohansen@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-////////// English //////////////
+### **////////// English //////////////**
   
 ### Hi, I’m Leah Yoimiya Johansen
 
