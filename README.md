@@ -1,5 +1,9 @@
-![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahJKH&show_icons=true&theme=synthwave)
+
 ### Hei, jeg er Leah Yoimiya Johansen
+
+## github stats
+![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahJKH&show_icons=true&theme=synthwave)
+
 
 ## Litt om meg
 Jeg er fascinert av alle typer coding og generelt nerde ting som D&D, spill og å fikse datamaskiner.
@@ -25,6 +29,9 @@ nå meg på [click too send email](mailto:jobbjohansen@gmail.com?subject=[GitHub
 ### **////////// English //////////////**
   
 ### Hi, I'm Leah Yoimiya Johansen
+
+## github stats
+![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahJKH&show_icons=true&theme=synthwave)
 
 ## About Me
 I'm fascinated by all kinds of coding and generally nerdy stuff like D&D, gaming, and fixing computers.
