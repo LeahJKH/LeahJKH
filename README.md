@@ -6,5 +6,4 @@ Det er selve kodeprosessen som fascinerer meg mest, hvordan en rekke ord og komm
 
 Ellers er jeg omgjengelig og lærevillig, og ser for meg noen år som utvikler-lærling, før jeg er i full jobb som fullstack seniorutvikler.
 
-## hvor kan du nå meg?
-nå meg på [click too send email](mailto:jobbjohansen@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+nå meg på [click too send email](mailto:leah@jobloop.no?subject=[GitHub]%20Source%20Han%20Sans)
