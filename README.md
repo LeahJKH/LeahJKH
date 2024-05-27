@@ -6,6 +6,8 @@ Det er selve kodeprosessen som fascinerer meg mest, hvordan en rekke ord og komm
 
 Ellers er jeg omgjengelig og lærevillig, og ser for meg noen år som utvikler-lærling, før jeg er i full jobb som fullstack seniorutvikler.
 
-nå meg på [click too send email](mailto:leah@jobloop.no?subject=[GitHub]%20Source%20Han%20Sans)
+nå meg på 
+[Email](mailto:leah@jobloop.no?subject=[GitHub]%20Source%20Han%20Sans)
+[LINKEDIN](https://www.linkedin.com/in/leah-yoimiya-johansen-b1379b2a0/)
 
 ![Leah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeahJKH&show_icons=true&theme=synthwave)
