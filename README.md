@@ -1,6 +1,6 @@
 
 
-  <img src="picture/LeahFace.webp" width="30%" height="250px" style="margin-right: 20px;" align="left">
+  <img src="picture/LeahFace.webp" width="35%" height="250px" style="margin-right: 20px;" align="left">
   <br clear="right">
 
 <h3>Hei! Mitt navn er Leah Yoimiya, og akkurat nå er jeg intern hos Jobloop. Her jobber jeg hovedsakelig med C# og .NET, og trives veldig godt med det. Jeg har også brukt mye tid på Unity, og har også gode kunnskaper innen frontend, med hovedvekt på TypeScript og React. Med andre ord, jeg er en aspirerende fullstack-utvikler.</h3>
