@@ -20,6 +20,34 @@ Ellers er jeg omgjengelig og lærevillig, og ser for meg noen år som utvikler-l
 
 ---
 
+kode språk jeg kan:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50px"/>
+
+Frameworks:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50px"/>
+
+Tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sanity/sanity-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px"/>
+
+---
+
 Nå meg på: <br>
 [EMAIL](mailto:leah@jobloop.no?subject=[GitHub]%20Source%20Han%20Sans) <br>
 [LINKEDIN](https://www.linkedin.com/in/leah-yoimiya-johansen-b1379b2a0/)
