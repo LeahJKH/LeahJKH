@@ -47,6 +47,9 @@ Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="50px"/><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50px"/>
 
 ---
+Certifications: 
+
+https://www.freecodecamp.org/certification/LeahYoimiya/foundational-c-sharp-with-microsoft   
 
 Nå meg på: <br>
 [EMAIL](mailto:leah@jobloop.no?subject=[GitHub]%20Source%20Han%20Sans) <br>
